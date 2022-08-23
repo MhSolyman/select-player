@@ -40,9 +40,9 @@ function total(playerAmount) {
         let playerAmountInt = parseInt(playerAmount);
         let managerValue = document.getElementById("manager").value;
         let managerValueInt = parseInt(managerValue);
-        let coachVakue = document.getElementById("coach").value;
-        let coachVakueInt = parseInt(coachVakue);
-        let all = playerAmountInt + managerValueInt + coachVakueInt;
+        let coachValue = document.getElementById("coach").value;
+        let coachValueInt = parseInt(coachValue);
+        let all = playerAmountInt + managerValueInt + coachValueInt;
         document.getElementById("total").innerText = all
 
     })
