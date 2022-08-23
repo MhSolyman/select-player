@@ -1,4 +1,18 @@
 header{
     height: 500px;
+    background-color: black;
+    margin-bottom: 30px;
     
+}
+.big-text{
+    color: #FF5E19;
+    font-family: Berkshire Swash;
+    font-style: Regular;
+font-size: 75px;
+}
+.blcckk{
+    background-color: black;
+}
+.topp{
+    padding-top: 150px;
 }
